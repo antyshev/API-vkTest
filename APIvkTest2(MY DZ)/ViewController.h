@@ -7,8 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
+#import "ADServerManager.h"
+#import "ADUser.h"
+#import "UIImageView+AFNetworking.h"
+@interface ViewController : UITableViewController
 
 
 @end
